@@ -1,6 +1,7 @@
 // Singleton
 // Creat a singleton with a property
 //
+// IDECodeSnippetCompletionPrefix: shareMananger
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
 // IDECodeSnippetIdentifier: 5262C8EF-F76B-4C54-8194-2484CDB3C9D9
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
