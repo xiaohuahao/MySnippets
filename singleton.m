@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 5262C8EF-F76B-4C54-8194-2484CDB3C9D9
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 +(instancetype)<#sharedManager#>
 {
     static <#Manager* manager#> = nil;

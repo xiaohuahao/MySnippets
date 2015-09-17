@@ -6,8 +6,7 @@
 // IDECodeSnippetIdentifier: CFA6ED47-862A-44E6-A4DA-E4F34160DFEE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
-//procjectName > storyBoard > thirdLibrary > tool(header and manager) > model > 界面
+// IDECodeSnippetVersion: 2
 
 
 

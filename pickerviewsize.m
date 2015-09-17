@@ -6,7 +6,7 @@
 // IDECodeSnippetIdentifier: 9325344F-0AE5-4B88-8B5E-FCA5297082FC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 0
+// IDECodeSnippetVersion: 2
 CGFloat color[4] = {1,1,1,1};
     
     CGColorSpaceRef rgb = CGColorSpaceCreateDeviceRGB();
